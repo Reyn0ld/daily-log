@@ -60,7 +60,7 @@ Aplikasi ini dikembangkan oleh tiga author utama:
 ### **Langkah-langkah:**
 1. Pastikan Anda memiliki **Windows OS** terinstal di komputer.  
 2. Unduh file installer aplikasi Daily Log (.exe) dari link berikut:  
-   [Unduh Installer Daily Log](#https://github.com/aan-cloud/daily-log-installer)
+   [Unduh Installer Daily Log](https://github.com/aan-cloud/daily-log-installer)
 3. Jalankan file installer yang telah diunduh.  
 4. Ikuti petunjuk instalasi hingga selesai.  
 5. Setelah instalasi, aplikasi **Daily Log** akan muncul di menu Start atau desktop.
