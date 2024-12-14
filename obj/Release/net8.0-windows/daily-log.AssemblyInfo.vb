@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("daily-log"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c60aad1999f3a424c759dbf4798ad7fc819ef215"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5b9549db65dcb991155be912ecb47d9e4116b98"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("daily-log"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("daily-log"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
