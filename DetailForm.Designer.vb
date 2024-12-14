@@ -35,10 +35,10 @@ Partial Class DetailForm
         ' lblTitle
         ' 
         lblTitle.AutoSize = True
-        lblTitle.Font = New Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        lblTitle.Location = New Point(187, 41)
+        lblTitle.Font = New Font("Segoe UI", 21.75F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        lblTitle.Location = New Point(187, 39)
         lblTitle.Name = "lblTitle"
-        lblTitle.Size = New Size(56, 30)
+        lblTitle.Size = New Size(77, 40)
         lblTitle.TabIndex = 0
         lblTitle.Text = "Title"
         ' 
@@ -46,7 +46,7 @@ Partial Class DetailForm
         ' 
         lblDate.AutoSize = True
         lblDate.Font = New Font("Segoe UI", 7F)
-        lblDate.Location = New Point(187, 88)
+        lblDate.Location = New Point(196, 89)
         lblDate.Name = "lblDate"
         lblDate.Size = New Size(25, 12)
         lblDate.TabIndex = 1
@@ -55,7 +55,7 @@ Partial Class DetailForm
         ' lblDescription
         ' 
         lblDescription.AutoSize = True
-        lblDescription.Location = New Point(187, 145)
+        lblDescription.Location = New Point(197, 141)
         lblDescription.Name = "lblDescription"
         lblDescription.Size = New Size(67, 15)
         lblDescription.TabIndex = 2
@@ -63,41 +63,51 @@ Partial Class DetailForm
         ' 
         ' btnEdit
         ' 
+        btnEdit.BackColor = Color.FromArgb(CByte(255), CByte(128), CByte(0))
+        btnEdit.Font = New Font("Comic Sans MS", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         btnEdit.Location = New Point(187, 246)
         btnEdit.Name = "btnEdit"
-        btnEdit.Size = New Size(75, 23)
+        btnEdit.Size = New Size(107, 37)
         btnEdit.TabIndex = 3
         btnEdit.Text = "Edit"
-        btnEdit.UseVisualStyleBackColor = True
+        btnEdit.UseVisualStyleBackColor = False
         ' 
         ' btnDelete
         ' 
-        btnDelete.Location = New Point(288, 246)
+        btnDelete.BackColor = Color.Red
+        btnDelete.FlatStyle = FlatStyle.Popup
+        btnDelete.Font = New Font("Comic Sans MS", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        btnDelete.ForeColor = SystemColors.ControlText
+        btnDelete.Location = New Point(317, 246)
         btnDelete.Name = "btnDelete"
-        btnDelete.Size = New Size(75, 23)
+        btnDelete.Size = New Size(93, 37)
         btnDelete.TabIndex = 4
         btnDelete.Text = "Delete"
-        btnDelete.UseVisualStyleBackColor = True
+        btnDelete.UseVisualStyleBackColor = False
         ' 
         ' btnDone
         ' 
+        btnDone.BackColor = Color.FromArgb(CByte(0), CByte(192), CByte(0))
+        btnDone.Cursor = Cursors.Hand
+        btnDone.Font = New Font("Comic Sans MS", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        btnDone.ForeColor = SystemColors.ControlText
         btnDone.Location = New Point(187, 246)
         btnDone.Name = "btnDone"
-        btnDone.Size = New Size(75, 23)
+        btnDone.Size = New Size(110, 37)
         btnDone.TabIndex = 5
         btnDone.Text = "Done"
-        btnDone.UseVisualStyleBackColor = True
+        btnDone.UseVisualStyleBackColor = False
         ' 
         ' txtTitle
         ' 
-        txtTitle.Location = New Point(187, 48)
+        txtTitle.Location = New Point(194, 56)
         txtTitle.Name = "txtTitle"
         txtTitle.Size = New Size(100, 23)
         txtTitle.TabIndex = 6
         ' 
         ' txtDescription
         ' 
-        txtDescription.Location = New Point(187, 137)
+        txtDescription.Location = New Point(197, 138)
         txtDescription.Name = "txtDescription"
         txtDescription.Size = New Size(100, 23)
         txtDescription.TabIndex = 7

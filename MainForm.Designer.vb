@@ -28,10 +28,12 @@ Partial Class MainForm
         ' 
         ' btnNew
         ' 
+        btnNew.Cursor = Cursors.Hand
+        btnNew.Font = New Font("Comic Sans MS", 15F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         btnNew.ForeColor = SystemColors.ControlText
-        btnNew.Location = New Point(356, 80)
+        btnNew.Location = New Point(101, 63)
         btnNew.Name = "btnNew"
-        btnNew.Size = New Size(109, 36)
+        btnNew.Size = New Size(174, 50)
         btnNew.TabIndex = 0
         btnNew.Text = "New"
         btnNew.UseVisualStyleBackColor = True
@@ -39,6 +41,7 @@ Partial Class MainForm
         ' panelList
         ' 
         panelList.AutoScroll = True
+        panelList.Font = New Font("Arial", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         panelList.Location = New Point(101, 155)
         panelList.Name = "panelList"
         panelList.Size = New Size(601, 253)
