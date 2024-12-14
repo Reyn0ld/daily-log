@@ -39,3 +39,4 @@ C:\Users\fmuh8\Source\Repos\daily-log\obj\Debug\net8.0-windows\refint\daily-log.
 C:\Users\fmuh8\Source\Repos\daily-log\obj\Debug\net8.0-windows\daily-log.pdb
 C:\Users\fmuh8\Source\Repos\daily-log\obj\Debug\net8.0-windows\daily-log.genruntimeconfig.cache
 C:\Users\fmuh8\Source\Repos\daily-log\obj\Debug\net8.0-windows\ref\daily-log.dll
+C:\Users\fmuh8\Source\Repos\daily-log\obj\Debug\net8.0-windows\daily-log.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fmuh8\\source\\repos\\daily-log\\daily-log\\daily-log.vbproj": {}
+    "C:\\Users\\fmuh8\\source\\repos\\daily-log\\daily-log.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\fmuh8\\source\\repos\\daily-log\\daily-log\\daily-log.vbproj": {
+    "C:\\Users\\fmuh8\\source\\repos\\daily-log\\daily-log.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fmuh8\\source\\repos\\daily-log\\daily-log\\daily-log.vbproj",
+        "projectUniqueName": "C:\\Users\\fmuh8\\source\\repos\\daily-log\\daily-log.vbproj",
         "projectName": "daily-log",
-        "projectPath": "C:\\Users\\fmuh8\\source\\repos\\daily-log\\daily-log\\daily-log.vbproj",
+        "projectPath": "C:\\Users\\fmuh8\\source\\repos\\daily-log\\daily-log.vbproj",
         "packagesPath": "C:\\Users\\fmuh8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fmuh8\\source\\repos\\daily-log\\daily-log\\obj\\",
+        "outputPath": "C:\\Users\\fmuh8\\source\\repos\\daily-log\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

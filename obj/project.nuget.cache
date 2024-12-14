@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KeesYtHB0Bo=",
+  "dgSpecHash": "Idf3kDmHPpo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fmuh8\\source\\repos\\daily-log\\daily-log\\daily-log.vbproj",
+  "projectFilePath": "C:\\Users\\fmuh8\\source\\repos\\daily-log\\daily-log.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\fmuh8\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

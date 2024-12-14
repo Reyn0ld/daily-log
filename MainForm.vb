@@ -2,7 +2,8 @@
 Imports System.IO
 
 Public Class MainForm
-    Private dataPath As String = "data.json"
+    Public documentsPath As String = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments)
+    Public dataPath As String = Path.Combine(documentsPath, "data.json")
     Public logs As List(Of DailyLog)
 
     ' Kelas untuk struktur JSON
@@ -36,7 +37,7 @@ Public Class MainForm
         For Each log As DailyLog In logs
             Dim btn As New Button()
             btn.Text = log.Title
-            btn.Tag = log.Id ' Simpan ID sebagai tag
+            btn.Tag = log.Id
             btn.Width = panelList.Width - 20
             AddHandler btn.Click, AddressOf ListItem_Click
             panelList.Controls.Add(btn)
