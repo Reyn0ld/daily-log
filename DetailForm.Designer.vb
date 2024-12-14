@@ -36,7 +36,7 @@ Partial Class DetailForm
         ' 
         lblTitle.AutoSize = True
         lblTitle.Font = New Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        lblTitle.Location = New Point(187, 43)
+        lblTitle.Location = New Point(187, 41)
         lblTitle.Name = "lblTitle"
         lblTitle.Size = New Size(56, 30)
         lblTitle.TabIndex = 0
@@ -90,7 +90,7 @@ Partial Class DetailForm
         ' 
         ' txtTitle
         ' 
-        txtTitle.Location = New Point(187, 50)
+        txtTitle.Location = New Point(187, 48)
         txtTitle.Name = "txtTitle"
         txtTitle.Size = New Size(100, 23)
         txtTitle.TabIndex = 6
