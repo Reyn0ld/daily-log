@@ -6,11 +6,10 @@
 
 ## **Author**
 
-Aplikasi ini dikembangkan oleh tiga author utama:
+Aplikasi ini dikembangkan oleh dua author utama:
 
 1. **Muhammad Farhan**  
 2. **Raynold Lumbantobing**  
-3. **Ajeng**
 
 ---
 
